@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
-[![Stars](https://img.shields.io/github/stars/yourusername/kalman-filter-av?style=social)]()
+[![Stars](https://img.shields.io/github/stars/imadalishah/kalman?style=social)]()
 
 A comprehensive implementation of Kalman Filters for Autonomous Vehicle applications with real-world scenarios and visualizations.
 
@@ -102,12 +102,10 @@ Key equations:
 X - [@imadalishah](https://twitter.com/imadalishah)
 LinkedIn - [@imadalishah](https://linkedin.com/in/imadalishah)
 
-Project Link: [https://github.com/imadalishah/kalman](https://github.com/imadalishah/kalman)
-
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -118,7 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 🌟 Acknowledgments
 
-- Special thanks to the autonomous vehicles research community
+- Thanks to the autonomous vehicles research community
 - Inspired by real-world autonomous driving challenges
 - Built upon classical Kalman Filter theory by R.E. Kalman
 

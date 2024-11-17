@@ -27,7 +27,7 @@ A comprehensive implementation of Kalman Filters for Autonomous Vehicle applicat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kalman-filter-av.git
+git clone https://github.com/imadalishah/kalman.git
 
 # Navigate to the project directory
 cd kalman-filter-av
@@ -120,9 +120,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+X - [@yourtwitter](https://twitter.com/imadalishah)
+LinkedIn - [@yourtwitter](https://linkedin.com/in/imadalishah)
 
-Project Link: [https://github.com/yourusername/kalman-filter-av](https://github.com/yourusername/kalman-filter-av)
+Project Link: [https://github.com/imadalishah/kalman](https://github.com/imadalishah/kalman)
 
 ## 🌟 Acknowledgments
 

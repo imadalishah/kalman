@@ -30,16 +30,12 @@ A comprehensive implementation of Kalman Filters for Autonomous Vehicle applicat
 git clone https://github.com/imadalishah/kalman.git
 
 # Navigate to the project directory
-cd kalman-filter-av
-
-# Install required packages
-pip install -r requirements.txt
-```
+cd kalman
 
 ## 💻 Usage
 
 ```python
-from kalman_filter_av import KalmanFilterAV
+from kalman import KalmanFilterAV
 
 # Initialize the Kalman Filter
 kf = KalmanFilterAV(dt=0.1)

@@ -16,12 +16,8 @@ A comprehensive implementation of Kalman Filters for Autonomous Vehicle applicat
 ## 📊 Visual Examples
 
 ### Vehicle Trajectory Tracking
-![Trajectory Tracking](assets/av_tracking_results.png)
+![Trajectory Tracking](av_tracking_results.png)
 *Visualization showing true trajectory (green), noisy GPS measurements (red dots), and Kalman Filter estimates (blue) with 95% confidence intervals*
-
-### Error Analysis
-![Error Analysis](assets/error_analysis.png)
-*Real-time estimation error and uncertainty bounds*
 
 ## 🛠 Installation
 
@@ -31,6 +27,7 @@ git clone https://github.com/imadalishah/kalman.git
 
 # Navigate to the project directory
 cd kalman
+```
 
 ## 💻 Usage
 
@@ -116,8 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-X - [@yourtwitter](https://twitter.com/imadalishah)
-LinkedIn - [@yourtwitter](https://linkedin.com/in/imadalishah)
+X - [@imadalishah](https://twitter.com/imadalishah)
+LinkedIn - [@imadalishah](https://linkedin.com/in/imadalishah)
 
 Project Link: [https://github.com/imadalishah/kalman](https://github.com/imadalishah/kalman)
 

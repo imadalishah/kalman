@@ -97,11 +97,6 @@ Key equations:
 - Prediction: x̂ₖ₍₋₎ = Fₖxₖ₋₁
 - Update: x̂ₖ = x̂ₖ₍₋₎ + Kₖ(zₖ - Hx̂ₖ₍₋₎)
 
-## 📧 Contact
-
-X - [@imadalishah](https://twitter.com/imadalishah)
-LinkedIn - [@imadalishah](https://linkedin.com/in/imadalishah)
-
 
 ## 🤝 Contributing
 
